@@ -1,8 +1,0 @@
-11:24:55.089 › Running version 11.1.0
-11:24:55.110 › [electron client protocol] the current executable is not the default protocol for 'insomnia://'
-11:24:55.220 › [fix] Running database repairs
-11:24:55.380 › [db] Initialized DB at /home/guilherme.cardoso/snap/insomnia/325/.config/Insomnia/insomnia.$TYPE.db
-11:24:55.381 › [db] Init responses DB
-11:24:55.381 › [db] Init websocket-responses DB
-11:24:55.383 › [ElectronStorage] Initialized at /home/guilherme.cardoso/snap/insomnia/325/.config/Insomnia/localStorage
-11:24:55.398 › [updater] Not supported on this platform linux
