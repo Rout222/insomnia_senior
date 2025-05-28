@@ -1,5 +1,6 @@
 {"_id":"wrk_6aa6a0a717634df5b4d16cdfad3ef831","type":"Workspace","parentId":"proj_a5c40259ecf34885868eb5e69f1b0e2a","modified":1747743845040,"created":1747743792750,"name":"Plataforma","description":"","scope":"environment"}
 {"_id":"wrk_915c723f8dcb478f8b0e7decf13c4773","type":"Workspace","parentId":"proj_a5c40259ecf34885868eb5e69f1b0e2a","modified":1747743888837,"created":1747743888837,"name":"Plataform","description":"","scope":"collection"}
 {"_id":"wrk_b421d5396b114809a423a0b7dfc944c8","type":"Workspace","parentId":"proj_a5c40259ecf34885868eb5e69f1b0e2a","modified":1747747051664,"created":1747746728378,"name":"Agenda","description":"","scope":"design"}
-{"_id":"wrk_e4678baa28ff4b14b1c8a4b62670f3bf","type":"Workspace","parentId":"proj_a5c40259ecf34885868eb5e69f1b0e2a","modified":1748353087826,"created":1748353087826,"name":"integration 2.0.0","description":"","scope":"design"}
+{"_id":"wrk_e4678baa28ff4b14b1c8a4b62670f3bf","type":"Workspace","parentId":"proj_a5c40259ecf34885868eb5e69f1b0e2a","modified":1748365307735,"created":1748353087826,"name":"Integration","description":"","scope":"design"}
+{"_id":"wrk_fde266e693094cec97c44ec227bdb7da","type":"Workspace","parentId":"proj_a5c40259ecf34885868eb5e69f1b0e2a","modified":1748365323890,"created":1748365319619,"name":"Patio","description":"","scope":"design"}
 {"_id":"wrk_scratchpad","type":"Workspace","parentId":"proj_scratchpad","modified":1747742685275,"created":1747742685275,"name":"Scratch Pad","description":"","scope":"collection"}
